@@ -136,7 +136,12 @@
     }
     
     .social-icon {
-        margin-top: 74px;
-        margin-left: 420px;
+        margin-top: 80px;
+        margin-left: 365px;
         font-size: 18px;
+    }
+    
+    .social-icon i {
+        padding-left: 10px;
+        border-radius: 5px;
     }
