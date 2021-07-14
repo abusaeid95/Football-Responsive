@@ -123,3 +123,20 @@
         font-weight: 700;
         line-height: 60px;
     }
+    
+    footer {
+        margin-left: 475px;
+        margin-right: 481.13px;
+        margin-top: 158px;
+    }
+    
+    .footer-image {
+        width: 483.87px;
+        height: 110px;
+    }
+    
+    .social-icon {
+        margin-top: 74px;
+        margin-left: 420px;
+        font-size: 18px;
+    }
