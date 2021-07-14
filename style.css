@@ -54,11 +54,19 @@
         margin-top: 64px;
     }
     
+    #text-box:hover {
+        transform: scale(1.11);
+    }
+    
     .banner-container img {
         width: 556.01px;
         height: 438px;
         margin-right: 141px;
         margin-top: 67px;
+    }
+    
+    .banner-container img:hover {
+        transform: scale(1.11);
     }
     
     .color-button {
