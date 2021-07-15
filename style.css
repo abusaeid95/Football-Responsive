@@ -50,6 +50,7 @@ body {
 
 .login-button {
     width: 123px;
+    background-color: #e0158afc;
 }
 
 .login-button a {
@@ -196,6 +197,17 @@ body {
 
 .highlights-info p {
     font-size: 16px;
+}
+
+.color-buttonl {
+    background-color: #E02C6D;
+    color: #FFFFFF;
+    width: 168px;
+    height: 44px;
+}
+
+.color-buttonl .last-button {
+    margin-left: 10px;
 }
 
 
